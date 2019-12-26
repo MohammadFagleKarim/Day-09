@@ -1,0 +1,24 @@
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.exe.config
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.exe
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.pdb
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csprojAssemblyReference.cache
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Properties.Resources.resources
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csproj.GenerateResource.cache
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csproj.CoreCompileInputs.cache
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.exe
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.pdb
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Customer.resources
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Items.resources
+G:\Day-08\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Order.resources
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.exe.config
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.exe
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\bin\Debug\Coffee Shop withDB.pdb
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csprojAssemblyReference.cache
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Customer.resources
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Items.resources
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Order.resources
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee_Shop_withDB.Properties.Resources.resources
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csproj.GenerateResource.cache
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.csproj.CoreCompileInputs.cache
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.exe
+G:\Day-09\Coffee Shop withDB\Coffee Shop withDB\obj\Debug\Coffee Shop withDB.pdb
